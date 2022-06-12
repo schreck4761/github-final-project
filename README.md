@@ -9,4 +9,4 @@ Input:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;r, annual rate of interest</br>
 
 Output</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;simple interest = p*t*r
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;simple interest = p\*t\*r
